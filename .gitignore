@@ -1,3 +1,12 @@
+data/
+*.hdf5
+*.tflite
+*.xml
+.vscode/
+.DS_Store
+zz*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

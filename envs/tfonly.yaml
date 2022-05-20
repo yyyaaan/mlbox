@@ -1,0 +1,11 @@
+name: tfonly
+channels:
+  - apple
+dependencies:
+  - python=3.8
+  - pip=21.2.4
+  - tensorflow-deps
+  - openblas
+  - pip:
+    - tensorflow-macos
+    - tensorflow-metal
