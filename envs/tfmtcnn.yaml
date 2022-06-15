@@ -1,4 +1,4 @@
-name: tfonly
+name: tfmtcnn
 channels:
   - apple
 dependencies:
@@ -10,3 +10,4 @@ dependencies:
     - tensorflow-macos
     - tensorflow-metal
     - pillow
+    - mtcnn
